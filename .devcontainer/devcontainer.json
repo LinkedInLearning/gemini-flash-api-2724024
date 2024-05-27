@@ -10,6 +10,8 @@
 		"vscode": {
 			"extensions": [
 				"ms-python.python",
+				"ms-python.debugpy",
+				"ms-python.vscode-pylance",
 				"GitHub.github-vscode-theme"
 			]
 		}
